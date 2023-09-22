@@ -1,0 +1,414 @@
+{"a":	
+	{
+		"prefixes": [
+			"ab",
+			"ac",
+			"ad",
+			"af",
+			"ag",
+			"am",
+			"an",
+			"ap",
+			"ar",
+			"as",
+			"at",
+			"ante",
+			"anti",
+			"auto",
+			"ambi",
+			"ana",
+			"ability"
+			],
+		"suffixes": [
+			"ance",
+			"ence"
+		]
+	},
+"b":	
+	{
+		"prefixes": [
+			"be",
+			"bi"
+			],
+		"suffixes": [
+			"able",
+			"ible"
+		]
+	
+	},
+"c":	
+	{
+		"prefixes": [
+			"ca",
+			"co",
+			"com",
+			"con",
+			"col",
+			"cor",
+			"contra",
+			"counter"
+			],
+		"suffixes": [
+			"ic"
+		]
+	},
+"d":	
+	{
+		"prefixes": [
+			"de",
+			"dis",
+			"di",
+			"dia",
+			"dys",
+			"duo",
+			"dua",
+			"du"
+			],
+		"suffixes": [
+			"ed",
+			"ude",
+			"dom",
+			"dox"
+		]
+	},
+"e":	
+	{
+		"prefixes": [
+			"ex",
+			"ec",
+			"ef",
+			"en",
+			"em",
+			"ep",
+			"er",
+			"eu",
+			"epi",
+			"exo",
+			"endo",
+			"ecto",
+			"extra",
+			"extro"
+			],
+		"suffixes": [
+			"eer",
+			"ee",
+			"ite",
+			"ete",
+			"ate",
+			"ute",
+			"ote",
+			"yte"
+		]
+	},
+"f":	
+	{
+		"prefixes": [
+			"for",
+			"fore"
+			],
+
+		"suffixes": [
+			"ful"
+		]
+	},
+"g":	
+	{
+		"prefixes": [
+			"ge",
+			"geo",
+			"gyro",
+			"gyne",
+			"gyno",
+			"gyn"
+			],
+		"suffixes": [
+			"ing",
+			"age",
+			"gram",
+			"graph",
+			"gen"
+		]
+	},
+"h":	
+	{
+		"prefixes": [
+			"hyper",
+			"hypo",
+			"hind",
+			"homo"
+			],
+		"suffixes": [
+			"th",
+			"hood",
+			"head"
+		]
+	},
+"i":	
+	{
+		"prefixes": [
+			"in",
+			"im",
+			"il",
+			"ir",
+			"ig",
+			"inter",
+			"intra",
+			"intro"
+			],
+		"suffixes": [
+			"ism",
+			"ist",
+			"ity"
+		]
+	},
+"j":	
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+"k":	
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+"l":	
+	{
+		"prefixes": [],
+		"suffixes": [
+			"al"
+		]
+	},
+"m":	
+	{
+		"prefixes": [
+			"mal",
+			"mis",
+			"mid",
+			"mono",
+			"multi",
+			"micro",
+			"macro",
+			"mega",
+			"magn",
+			"maxi",
+			"min",
+			"milli"
+			],
+		"suffixes": [
+			"ment",
+			"metry",
+			"meter",
+			"morph"
+		]
+	},
+"n":	
+	{
+		"prefixes": [
+			"non",
+			"neo"
+			],
+		"suffixes": [
+			"tion",
+			"sion",
+			"xion",
+			"ian",
+			"ion"
+		]
+	},
+"o":	
+	{
+		"prefixes": [
+			"ob",
+			"oc",
+			"of",
+			"on",
+			"op",
+			"omni",
+			"ortho",
+			"octo",
+			"octa",
+			"oct",
+			"oligo"
+			],
+		"suffixes": [
+			"oid",
+			"oma",
+			"osis",
+			"orium",
+			"ory"
+		]
+	},
+"p":	
+	{
+		"prefixes": [
+			"per",
+			"pro",
+			"pre",
+			"par",
+			"pan",
+			"post",
+			"proto"
+			],
+		"suffixes": []
+	},
+"q":	
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+"r":	
+	{
+		"prefixes": [
+			"re",
+			"retro"
+			],
+		"suffixes": [
+			"er",
+			"or",
+			"ar",
+			"ir",
+			"ur",
+			"are",
+			"ire",
+			"ere",
+			"ore",
+			"ure"
+		]
+	},
+"s":	
+	{
+		"prefixes": [
+			"sub",
+			"sup",
+			"sur",
+			"sus",
+			"suf",
+			"super",
+			"supra",
+			"semi"
+			],
+		"suffixes": [
+			"s",
+			"es",
+			"ies",
+			"less",
+			"ness",
+			"ship",
+			"self"
+		]
+	},
+"t": 	
+	{
+		"prefixes": [
+			"trans",
+			"tri"
+		],
+		"suffixes": [
+			"ent"
+		]
+	},
+"u":	
+	{
+		"prefixes": [
+			"un",
+			"up",
+			"uni",
+			"ultra",
+			"under"
+			],
+		"suffixes": [
+			"ure"
+		]
+	},
+"v":	
+	{
+		"prefixes": [],
+		"suffixes": [
+			"ive"
+		]
+	},
+"w":	
+	{
+		"prefixes": [
+			"with"
+			],
+		"suffixes": [
+			"ward",
+			"wise"
+		]
+	},
+"x":	
+	{
+		"prefixes": [],
+		"suffixes": [
+			"ax",
+			"ex",
+			"ix",
+			"ox",
+			"ux",
+			"axy",
+			"exy",
+			"ixy",
+			"oxy",
+			"uxy"
+		]
+	},
+"y":	
+	{
+		"prefixes": [],
+		"suffixes": [
+			"ably",
+			"ibly",
+			"by",
+			"cy",
+			"dy",
+			"fy",
+			"gy",
+			"hy",
+			"jy",
+			"ky",
+			"ly",
+			"my",
+			"ny",
+			"py",
+			"ry",
+			"sy",
+			"ty",
+			"vy",
+			"wy",
+			"xy",
+			"zy"
+		]
+	},
+"z":	
+	{
+		"prefixes": [
+			"zoo"
+			],
+		"suffixes": [
+			"ize",
+			"ise"
+		]
+	},
+",": 
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+".": 
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+";": 
+	{
+		"prefixes": [],
+		"suffixes": []
+	},
+"'": 
+	{
+		"prefixes": [],
+		"suffixes": []
+	}
+}
+
