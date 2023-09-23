@@ -39,7 +39,6 @@
 "c":	
 	{
 		"prefixes": [
-			"ca",
 			"co",
 			"com",
 			"con",
@@ -391,8 +390,26 @@
 	},
 ",": 
 	{
-		"prefixes": [],
-		"suffixes": []
+		"prefixes": [
+			"ob",
+			"oc",
+			"of",
+			"on",
+			"op",
+			"omni",
+			"ortho",
+			"octo",
+			"octa",
+			"oct",
+			"oligo"
+			],
+		"suffixes": [
+			"oid",
+			"oma",
+			"osis",
+			"orium",
+			"ory"
+		]
 	},
 ".": 
 	{

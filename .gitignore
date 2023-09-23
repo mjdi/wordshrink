@@ -1,10 +1,10 @@
 # folders
 
-2018/
-outliers/
-naive/
+eda/outliers/
+eda/naive/
 research/
-
+words/
+shorthand/shorthands.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

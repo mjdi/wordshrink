@@ -1,5 +1,6 @@
 keyboard
 pandas
+pytest
 jupyter
 matplotlib
 seaborn
