@@ -24,7 +24,7 @@ create a virtual environment, activate it, and install requirments.txt
 
 `pip install -r requirments.txt`
 
-run `python shorthand\generate.py` to generate the prefix|root|suffix list of all 8 letters or longer english 50k words from https://github.com/hermitdave/FrequencyWords/tree/master/content/2016/en
+run `python shorthand\generate.py` to generate the prefix|root|suffix list of all 7 letters or longer english 50k words from https://github.com/hermitdave/FrequencyWords/tree/master/content/2016/en
 
 TODO: create command line options to adjust these parameters, like root word length (3 letters minus vowels)
 
@@ -34,4 +34,4 @@ run `python engine.py` in powershell to start shrinking words via holding Space 
 
 ![image](https://github.com/mjdi/wordshrink/assets/24360385/e3adc07c-c1bf-4e77-a25b-ecedeb2839eb)
 
-semicolon (`;`) is a prefix and suffix delineator
+semicolon (`;`) is a prefix and suffix delineator on press and release, ex. unimportantly == ui;⬇️prt⬆️ty
